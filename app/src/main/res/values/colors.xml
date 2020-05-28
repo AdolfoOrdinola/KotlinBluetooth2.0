@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Color principal en la aplicación. Es el que se muestra en la cabecera, donde dice el nombre de la app. -->
+    <color name="colorPrimary">#FF5252</color>
+
+    <!-- Este color es el que se mira en la barrita pequeña donde se visualizan las notificaciones; estado de la bateria, señal, etc. -->
+    <color name="colorPrimaryDark">#FF1744</color>
+
+    <!-- Color de acentuación. Se utiliza para resaltar zonas donde se necesita prestar más atención, como en los botones de los cuadros de Diálogo. -->
+    <color name="colorAccent">#82B1FF</color>
+
+</resources>
